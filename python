@@ -1,5 +1,1 @@
-def saudacao(nome):
- print(f'Oi, {nome}! Bem-vindo(a)!')
-saudacao("Marcos")
-saudacao("Júlia")
 
